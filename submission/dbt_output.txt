@@ -1,0 +1,5 @@
+[0m04:21:49  Finished running 1 seed, 1 table model, 7 data tests, 1 unit test, 1 view model in 0 hours 0 minutes and 0.41 seconds (0.41s).
+[0m04:21:49  
+[0m04:21:49  [32mCompleted successfully[0m
+[0m04:21:49  
+[0m04:21:49  Done. PASS=11 WARN=0 ERROR=0 SKIP=0 NO-OP=0 TOTAL=11
